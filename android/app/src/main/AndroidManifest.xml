@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flow_video_player">
    <application
-        android:label="flow_video_player"
+        android:label="Flow 360"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
