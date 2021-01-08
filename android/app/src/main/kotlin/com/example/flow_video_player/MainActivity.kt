@@ -1,4 +1,4 @@
-package com.example.startup_namer
+package com.example.flow_video_player
 
 import io.flutter.embedding.android.FlutterActivity
 
